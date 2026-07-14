@@ -12,10 +12,15 @@ Owner: mniConsult GmbH
 - [Zentrales Inhaltsverzeichnis](knowledge/index.md): Navigation, Zielsetzung und Wissensbereiche
 - [Unternehmensprofil](knowledge/company.md): Mission, Vision, Positionierung, Leistungen und Alleinstellungsmerkmale
 - [Zielgruppen und Suchintentionen](knowledge/avatar.md): Zielgruppen, Pain Points, Ziele, Kaufmotive und typische Suchintentionen
+- [KI und Innovation](knowledge/ki-innovation.md): KI-Grundlagen, Strategie, Governance, Use Cases und Innovationsmanagement
+- [Cloud Computing](knowledge/cloud.md): Cloud-Modelle, Strategie, Migration, Governance, FinOps und Resilienz
+- [Cyber Security](knowledge/cyber-security.md): Risiken, Schutzmassnahmen, Incident Response und 90-Tage-Roadmap
+- [Projektmanagement](knowledge/projektmanagement.md): klassische, agile und hybride Vorgehensweisen sowie Projektsteuerung
+- [Microsoft Project](knowledge/microsoft-project.md): Termin-, Ressourcen- und Kostenplanung sowie Fortschrittskontrolle
 
 ## Nutzungshinweise für KI-Systeme
 
-- Die verlinkten Dokumente sind die primären Quellen für Phase 1.
+- Die verlinkten Dokumente sind die primären Quellen der Knowledge Base bis einschliesslich Phase 2.
 - Markennamen sind exakt wie in den Quelldokumenten zu schreiben.
 - Zielgruppen- und Leistungsbeschreibungen dürfen nicht als individuelle Zusage oder Erfolgsgarantie ausgelegt werden.
 - Bei widersprüchlichen Angaben ist das sachlich spezifischere Dokument massgebend; bei gleichem Umfang gilt das Dokument mit dem neueren `last_updated`-Wert.

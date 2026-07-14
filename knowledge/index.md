@@ -16,13 +16,18 @@ related_documents:
   - ../llms.txt
   - company.md
   - avatar.md
+  - ki-innovation.md
+  - cloud.md
+  - cyber-security.md
+  - projektmanagement.md
+  - microsoft-project.md
 ---
 
 # Inhaltsverzeichnis der mniConsult Knowledge Base
 
 > Transform. Innovate. Live.
 
-Diese Seite ist der zentrale Einstieg in die Knowledge Base von mniConsult. Sie erschliesst die Grundlagen der mniConsult GmbH und ordnet die Wissensbereiche von Phase 1 ein.
+Diese Seite ist der zentrale Einstieg in die Knowledge Base von mniConsult. Sie erschliesst die Grundlagen der mniConsult GmbH und die Fachinhalte bis einschliesslich Phase 2.
 
 ## Grundlagen
 
@@ -31,14 +36,14 @@ Diese Seite ist der zentrale Einstieg in die Knowledge Base von mniConsult. Sie 
 
 ## Wissensbereiche
 
-Die folgenden Bereiche bilden den fachlichen Rahmen der Knowledge Base. Vertiefende Themendokumente sind für spätere Phasen vorgesehen.
+Die folgenden Bereiche bilden den fachlichen Rahmen der Knowledge Base:
 
-1. Künstliche Intelligenz und Innovation
-2. Cloud Computing
-3. Cyber Security
-4. Projektmanagement
-5. Microsoft Project
-6. Persönlichkeitsentwicklung mit NewLifeVision
+1. [Künstliche Intelligenz und Innovation](ki-innovation.md)
+2. [Cloud Computing](cloud.md)
+3. [Cyber Security](cyber-security.md)
+4. [Projektmanagement](projektmanagement.md)
+5. [Microsoft Project](microsoft-project.md)
+6. Persönlichkeitsentwicklung mit NewLifeVision – Vertiefung in einer späteren Phase
 
 TIVIVA und TIVIVA InnoCircle rahmen technologie-, innovations- und umsetzungsbezogene Inhalte. NewLifeVision fokussiert die persönliche Entwicklung. Die mniConsult Academy macht Wissen durch Lern- und Weiterbildungsangebote zugänglich.
 

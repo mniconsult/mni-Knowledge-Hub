@@ -16,6 +16,11 @@ related_documents:
   - knowledge/index.md
   - knowledge/company.md
   - knowledge/avatar.md
+  - knowledge/ki-innovation.md
+  - knowledge/cloud.md
+  - knowledge/cyber-security.md
+  - knowledge/projektmanagement.md
+  - knowledge/microsoft-project.md
 ---
 
 # mniConsult Knowledge Hub
@@ -26,7 +31,7 @@ Dieses Repository ist die zentrale Wissensbasis der mniConsult GmbH. Es stellt v
 
 ## Zweck
 
-Der Knowledge Hub schafft eine gemeinsame, pflegbare Informationsquelle für die Kommunikation von mniConsult. In Phase 1 enthält er das Unternehmensprofil, die Beschreibung der Zielgruppen und die Gliederung der vorgesehenen Wissensbereiche.
+Der Knowledge Hub schafft eine gemeinsame, pflegbare Informationsquelle für die Kommunikation von mniConsult. Er enthält Grundlagen zu Unternehmen und Zielgruppen sowie praxisorientierte Fachinformationen.
 
 Die Inhalte richten sich an KMU, Unternehmer, Geschäftsführer, Projektleiter, Teamleiter, IT-Verantwortliche, Professionals sowie Fach- und Führungskräfte in der Schweiz, Deutschland und Österreich.
 
@@ -39,17 +44,27 @@ mni-Knowledge-Hub/
 └── knowledge/
     ├── index.md
     ├── company.md
-    └── avatar.md
+    ├── avatar.md
+    ├── ki-innovation.md
+    ├── cloud.md
+    ├── cyber-security.md
+    ├── projektmanagement.md
+    └── microsoft-project.md
 ```
 
 - [`llms.txt`](llms.txt) ist der kompakte Einstiegspunkt für KI-Systeme.
 - [`knowledge/index.md`](knowledge/index.md) ist das zentrale Inhaltsverzeichnis.
 - [`knowledge/company.md`](knowledge/company.md) beschreibt die mniConsult GmbH.
 - [`knowledge/avatar.md`](knowledge/avatar.md) beschreibt Zielgruppen und deren Bedürfnisse.
+- [`knowledge/ki-innovation.md`](knowledge/ki-innovation.md) behandelt KI-Einführung, Governance, Use Cases und Innovation.
+- [`knowledge/cloud.md`](knowledge/cloud.md) behandelt Cloud-Strategie, Migration, Governance, Kosten und Resilienz.
+- [`knowledge/cyber-security.md`](knowledge/cyber-security.md) behandelt Informationssicherheit, Schutzmassnahmen und Vorfallvorsorge.
+- [`knowledge/projektmanagement.md`](knowledge/projektmanagement.md) behandelt klassische, agile und hybride Projektsteuerung.
+- [`knowledge/microsoft-project.md`](knowledge/microsoft-project.md) behandelt Planung und Kontrolle mit Microsoft Project.
 
 ## Wissensbereiche
 
-Die Knowledge Base wird entlang dieser Bereiche entwickelt:
+Die Knowledge Base wird entlang dieser Bereiche entwickelt. Die ersten fünf Bereiche sind in Phase 2 als Fachdateien verfügbar:
 
 - Künstliche Intelligenz und Innovation
 - Cloud Computing
