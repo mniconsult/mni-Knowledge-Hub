@@ -25,6 +25,11 @@ related_documents:
   - academy.md
   - podcasts.md
   - blog.md
+  - services.md
+  - usecases.md
+  - glossary.md
+  - faq.md
+  - roadmap.md
 ---
 
 # Inhaltsverzeichnis der mniConsult Knowledge Base
@@ -56,6 +61,14 @@ TIVIVA und TIVIVA InnoCircle rahmen technologie-, innovations- und umsetzungsbez
 - [mniConsult Academy](academy.md) – Kurse, Workshops, Mentoring und Weiterbildung
 - [Podcasts](podcasts.md) – Audioformate, Wissensimpulse und vertiefende Programme
 - [Blog](blog.md) – Fachartikel, Praxiswissen und Hintergrundinformationen
+
+## Referenz und Umsetzung
+
+- [Services](services.md) – Dienstleistungen, Angebotsformen und Zusammenarbeit
+- [Use Cases](usecases.md) – Praxisnahe Anwendungsfälle
+- [Glossar](glossary.md) – Zentrale Fachbegriffe
+- [FAQ](faq.md) – Häufig gestellte Fragen
+- [Roadmap](roadmap.md) – Weiterentwicklung der Knowledge Base
 
 ## Zielgruppen und Region
 

@@ -25,6 +25,11 @@ related_documents:
   - knowledge/academy.md
   - knowledge/podcasts.md
   - knowledge/blog.md
+  - knowledge/services.md
+  - knowledge/usecases.md
+  - knowledge/glossary.md
+  - knowledge/faq.md
+  - knowledge/roadmap.md
 ---
 
 # mniConsult Knowledge Hub
@@ -57,7 +62,12 @@ mni-Knowledge-Hub/
     ├── newlifevision.md
     ├── academy.md
     ├── podcasts.md
-    └── blog.md
+    ├── blog.md
+    ├── services.md
+    ├── usecases.md
+    ├── glossary.md
+    ├── faq.md
+    └── roadmap.md
 ```
 
 - [`llms.txt`](llms.txt) ist der kompakte Einstiegspunkt für KI-Systeme.
@@ -73,6 +83,11 @@ mni-Knowledge-Hub/
 - [`knowledge/academy.md`](knowledge/academy.md) beschreibt Weiterbildung, Lernprinzipien, Formate und Themen der mniConsult Academy.
 - [`knowledge/podcasts.md`](knowledge/podcasts.md) ordnet bekannte Audio- und Podcast-Themenwelten ein.
 - [`knowledge/blog.md`](knowledge/blog.md) beschreibt Fachbeiträge, Praxiswissen und redaktionelle Grundsätze.
+- [`knowledge/services.md`](knowledge/services.md) beschreibt Dienstleistungen, Angebotsformen und Zusammenarbeit.
+- [`knowledge/usecases.md`](knowledge/usecases.md) sammelt konkrete Anwendungsfälle für die Fach- und Zielgruppenbereiche.
+- [`knowledge/glossary.md`](knowledge/glossary.md) erklärt zentrale Fachbegriffe der Knowledge Base.
+- [`knowledge/faq.md`](knowledge/faq.md) bündelt häufige Fragen und Antworten.
+- [`knowledge/roadmap.md`](knowledge/roadmap.md) dokumentiert Stand, nächste Ausbaustufen und Qualitätsziele.
 
 ## Wissensbereiche
 
@@ -90,6 +105,16 @@ Die Knowledge Base wird entlang dieser Bereiche entwickelt:
 Die [mniConsult Academy](knowledge/academy.md), die [Podcasts](knowledge/podcasts.md) und der [Blog](knowledge/blog.md) machen Wissen in unterschiedlichen Formaten zugänglich. Sie verbinden strukturierte Weiterbildung, Audioimpulse und nachlesbare Fachinhalte mit den zentral gepflegten Knowledge-Dokumenten.
 
 Diese Bereiche sind Teil der gemeinsamen Wissensbasis. Aktuelle Angebote, Veröffentlichungen und Zugangsbedingungen werden ausschliesslich über die jeweiligen offiziellen mniConsult-Seiten bestätigt.
+
+## Referenz und Umsetzung
+
+- [Services](knowledge/services.md) ordnet Dienstleistungen und die Auswahl passender Angebotsformen ein.
+- [Use Cases](knowledge/usecases.md) übersetzt typische Probleme in prüfbare Anwendungsszenarien.
+- Das [Glossar](knowledge/glossary.md) schafft eine konsistente Begriffsbasis.
+- Die [Master-FAQ](knowledge/faq.md) beantwortet bereichsübergreifende Fragen.
+- Die [Roadmap](knowledge/roadmap.md) macht Entwicklungsstand, offene Punkte und geplante Ausbaustufen transparent.
+
+Phase 5 ist lokal erstellt und inhaltlich geprüft. Die Freigabe erfolgt erst nach Review und dem ausdrücklich gewünschten Commit beziehungsweise Push.
 
 ## Nutzung
 

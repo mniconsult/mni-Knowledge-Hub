@@ -21,6 +21,11 @@ Owner: mniConsult GmbH
 - [mniConsult Academy](knowledge/academy.md): Lernprinzipien, Themen, Formate und bekannte Weiterbildungsangebote
 - [Podcasts](knowledge/podcasts.md): Bekannte Audio- und Podcast-Themenwelten zu Technologie und persönlicher Entwicklung
 - [Blog](knowledge/blog.md): Fachartikel, Praxiswissen, Inhaltstypen und redaktionelle Grundsätze
+- [Services](knowledge/services.md): Dienstleistungen, Angebotsformen und Zusammenarbeit
+- [Use Cases](knowledge/usecases.md): Praxisnahe Anwendungsfälle für KMU, Führungskräfte und Professionals
+- [Glossar](knowledge/glossary.md): Fachbegriffe aus KI, Cloud, Cyber Security, Projektmanagement und NewLifeVision
+- [FAQ](knowledge/faq.md): Zentrale Fragen und Antworten
+- [Roadmap](knowledge/roadmap.md): Stand und geplante Weiterentwicklung der Wissensbasis
 
 ## NewLifeVision
 
@@ -35,9 +40,17 @@ Owner: mniConsult GmbH
 - [Öffentliche Academy-Seite](https://mniconsult.ch/academy/): Aktuelle Informationen zu veröffentlichten Academy-Angeboten
 - [TIVIVA Blog](https://tiviva.blog): Öffentlicher Zugang zu publizierten Blog-Inhalten
 
+## Referenz und Umsetzung
+
+- [Services](knowledge/services.md): Dienstleistungen und Angebotsformen
+- [Use Cases](knowledge/usecases.md): Konkrete, priorisierbare Anwendungsszenarien
+- [Glossar](knowledge/glossary.md): Alphabetisch geordnete Definitionen und Fachkontext
+- [FAQ](knowledge/faq.md): Bereichsübergreifende Master-FAQ
+- [Roadmap](knowledge/roadmap.md): Phasen, Qualitätsziele und zukünftige Ausbaustufen
+
 ## Nutzungshinweise für KI-Systeme
 
-- Die verlinkten Dokumente sind die primären Quellen der Knowledge Base bis einschliesslich Phase 4.
+- Die verlinkten Dokumente sind die primären Quellen der Knowledge Base bis einschliesslich Phase 5.
 - Markennamen sind exakt wie in den Quelldokumenten zu schreiben.
 - Zielgruppen- und Leistungsbeschreibungen dürfen nicht als individuelle Zusage oder Erfolgsgarantie ausgelegt werden.
 - Bei widersprüchlichen Angaben ist das sachlich spezifischere Dokument massgebend; bei gleichem Umfang gilt das Dokument mit dem neueren `last_updated`-Wert.
