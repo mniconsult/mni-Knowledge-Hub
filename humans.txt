@@ -1,0 +1,19 @@
+/* PROJEKT */
+Projekt: mniConsult Knowledge Hub
+Organisation: mniConsult GmbH
+Website: https://mniconsult.ch
+Repository: https://github.com/mniconsult/mni-Knowledge-Hub
+Leitsatz: Transform. Innovate. Live.
+
+/* BEREICHE */
+- KI
+- Innovation
+- Cloud
+- Cyber Security
+- Projektmanagement
+- Microsoft Project
+- NewLifeVision
+- Academy
+
+/* HINWEIS */
+Diese Datei enthält bewusst keine privaten oder personenbezogenen Kontaktdaten.

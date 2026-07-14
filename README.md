@@ -49,7 +49,13 @@ Die Inhalte richten sich an KMU, Unternehmer, Geschäftsführer, Projektleiter, 
 ```text
 mni-Knowledge-Hub/
 ├── README.md
+├── AGENTS.md
 ├── llms.txt
+├── robots.txt
+├── sitemap.xml
+├── sitemap.rss
+├── humans.txt
+├── security.txt
 └── knowledge/
     ├── index.md
     ├── company.md
@@ -88,6 +94,14 @@ mni-Knowledge-Hub/
 - [`knowledge/glossary.md`](knowledge/glossary.md) erklärt zentrale Fachbegriffe der Knowledge Base.
 - [`knowledge/faq.md`](knowledge/faq.md) bündelt häufige Fragen und Antworten.
 - [`knowledge/roadmap.md`](knowledge/roadmap.md) dokumentiert Stand, nächste Ausbaustufen und Qualitätsziele.
+
+## SEO und Discovery
+
+- [`robots.txt`](robots.txt) erlaubt die Indexierung und verweist auf XML-Sitemap und RSS-Feed.
+- [`sitemap.xml`](sitemap.xml) listet bekannte öffentliche mniConsult-Seiten und kennzeichnet geplante Knowledge-Veröffentlichungen nur als Kommentare.
+- [`sitemap.rss`](sitemap.rss) stellt bekannte Inhaltsbereiche für Feed-Reader bereit.
+- [`humans.txt`](humans.txt) dokumentiert Projekt, Organisation, Bereiche und öffentliches Repository.
+- [`security.txt`](security.txt) enthält die maschinenlesbaren Security-Policy-Angaben für eine spätere Bereitstellung unter `/.well-known/security.txt`.
 
 ## Wissensbereiche
 

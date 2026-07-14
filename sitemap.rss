@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mniConsult</title>
+    <link>https://mniconsult.ch/</link>
+    <description>Aktuelle Inhalte der mniConsult Knowledge Base.</description>
+    <language>de-CH</language>
+    <lastBuildDate>Tue, 14 Jul 2026 18:56:57 GMT</lastBuildDate>
+    <atom:link href="https://mniconsult.ch/sitemap.rss" rel="self" type="application/rss+xml" />
+
+    <!-- Veröffentlichungsdaten der einzelnen Ressourcen sind nicht dokumentiert. Deshalb enthalten die Einträge bewusst kein pubDate. -->
+
+    <category>Knowledge Base</category>
+    <category>Neue Kurse</category>
+    <category>Neue Dokumentationen</category>
+    <category>Neue Fachartikel</category>
+    <category>Neue Use Cases</category>
+    <category>Neue FAQ</category>
+    <category>Neue Glossarbegriffe</category>
+    <category>Neue Whitepaper</category>
+    <category>Neue Podcasts</category>
+    <category>Neue Landingpages</category>
+
+    <item>
+      <title>Website</title>
+      <link>https://mniconsult.ch/</link>
+      <description>Zentrale Website der mniConsult GmbH.</description>
+      <guid isPermaLink="true">https://mniconsult.ch/</guid>
+    </item>
+    <item>
+      <title>mniConsult Academy</title>
+      <link>https://mniconsult.ch/academy/</link>
+      <description>Weiterbildung, Kurse und Lernangebote von mniConsult.</description>
+      <guid isPermaLink="true">https://mniconsult.ch/academy/</guid>
+    </item>
+    <item>
+      <title>TIVIVA</title>
+      <link>https://mniconsult.ch/tiviva/</link>
+      <description>Inhalte zu Transformation, Innovation und Entwicklung.</description>
+      <guid isPermaLink="true">https://mniconsult.ch/tiviva/</guid>
+    </item>
+    <item>
+      <title>TIVIVA InnoCircle</title>
+      <link>https://mniconsult.ch/tiviva-inno-circle/</link>
+      <description>Technologie, Innovation, Cloud Computing, Cyber Security und Projektmanagement.</description>
+      <guid isPermaLink="true">https://mniconsult.ch/tiviva-inno-circle/</guid>
+    </item>
+    <item>
+      <title>NewLifeVision</title>
+      <link>https://mniconsult.ch/newlifevision</link>
+      <description>Persönliche Entwicklung, Fokus, Regeneration und Zukunftsgestaltung.</description>
+      <guid isPermaLink="true">https://mniconsult.ch/newlifevision</guid>
+    </item>
+    <item>
+      <title>Knowledge Base</title>
+      <description>Strukturierte Wissensbasis von mniConsult. Eine öffentliche Ziel-URL ist noch nicht dokumentiert.</description>
+      <guid isPermaLink="false">mniconsult-knowledge-base</guid>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://tiviva.blog/</link>
+      <description>Fachartikel, Praxiswissen und Hintergrundinformationen.</description>
+      <guid isPermaLink="true">https://tiviva.blog/</guid>
+    </item>
+    <item>
+      <title>Podcasts und Impulse</title>
+      <link>https://mniconsult.ch/impulse/</link>
+      <description>Audioformate, Podcasts und Wissensimpulse von mniConsult.</description>
+      <guid isPermaLink="true">https://mniconsult.ch/impulse/</guid>
+    </item>
+  </channel>
+</rss>

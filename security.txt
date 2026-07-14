@@ -1,0 +1,7 @@
+# Keine dedizierte Security-Kontaktadresse ist im Repository dokumentiert.
+# Bis zur Veröffentlichung eines spezifischen Meldewegs dient die offizielle Website als Kontakt-Fallback.
+Contact: https://mniconsult.ch
+Expires: 2027-07-14T18:56:57Z
+Preferred-Languages: de, en
+Canonical: https://mniconsult.ch/.well-known/security.txt
+Policy: https://mniconsult.ch

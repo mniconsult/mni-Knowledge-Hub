@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mniconsult.ch/sitemap.xml
+Sitemap: https://mniconsult.ch/sitemap.rss

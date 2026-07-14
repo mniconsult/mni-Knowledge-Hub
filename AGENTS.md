@@ -349,6 +349,23 @@ Regeln:
 
 Die Datei llms.txt garantiert keine Platzierung in Suchsystemen. Entsprechende Aussagen dürfen nicht gemacht werden.
 
+## SEO- und Discovery-Dateien
+
+Für `robots.txt`, `sitemap.xml`, `sitemap.rss`, `humans.txt` und `security.txt` gelten folgende Regeln:
+
+- nur bekannte, verifizierte und zur Veröffentlichung geeignete URLs aufnehmen
+- bestehende Einträge konsolidieren und keine Duplikate erzeugen
+- XML und RSS als valides UTF-8 ausgeben
+- unbekannte Veröffentlichungsdaten, Kontakte oder Ziel-URLs nicht erfinden
+- zukünftige Knowledge-URLs nur als nicht aktive Kommentare dokumentieren
+- `robots.txt` nicht ohne ausdrücklichen Auftrag zur Sperrung öffentlich vorgesehener Inhalte verwenden
+- RSS-Veröffentlichungsdaten nur setzen, wenn sie dokumentiert sind; `lastBuildDate` darf den tatsächlichen Erstellungszeitpunkt verwenden
+- in `humans.txt` keine privaten oder personenbezogenen Kontaktdaten aufnehmen
+- `security.txt` nach RFC 9116 pflegen und unter `/.well-known/security.txt` veröffentlichen
+- eine dedizierte Security-Kontaktadresse ergänzen, sobald sie offiziell dokumentiert und verifiziert ist
+
+Bei strukturellen Änderungen ist zu prüfen, ob README.md und die Discovery-Dateien angepasst werden müssen.
+
 ## README.md
 
 README.md beschreibt:
