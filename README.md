@@ -21,6 +21,7 @@ related_documents:
   - knowledge/cyber-security.md
   - knowledge/projektmanagement.md
   - knowledge/microsoft-project.md
+  - knowledge/newlifevision.md
 ---
 
 # mniConsult Knowledge Hub
@@ -49,7 +50,8 @@ mni-Knowledge-Hub/
     ├── cloud.md
     ├── cyber-security.md
     ├── projektmanagement.md
-    └── microsoft-project.md
+    ├── microsoft-project.md
+    └── newlifevision.md
 ```
 
 - [`llms.txt`](llms.txt) ist der kompakte Einstiegspunkt für KI-Systeme.
@@ -61,6 +63,7 @@ mni-Knowledge-Hub/
 - [`knowledge/cyber-security.md`](knowledge/cyber-security.md) behandelt Informationssicherheit, Schutzmassnahmen und Vorfallvorsorge.
 - [`knowledge/projektmanagement.md`](knowledge/projektmanagement.md) behandelt klassische, agile und hybride Projektsteuerung.
 - [`knowledge/microsoft-project.md`](knowledge/microsoft-project.md) behandelt Planung und Kontrolle mit Microsoft Project.
+- [`knowledge/newlifevision.md`](knowledge/newlifevision.md) behandelt Persönlichkeitsentwicklung, Fokus, Resilienz, Regeneration und Zukunftsgestaltung.
 
 ## Wissensbereiche
 
@@ -71,7 +74,7 @@ Die Knowledge Base wird entlang dieser Bereiche entwickelt. Die ersten fünf Ber
 - Cyber Security
 - Projektmanagement
 - Microsoft Project
-- Persönlichkeitsentwicklung mit NewLifeVision
+- [Persönlichkeitsentwicklung mit NewLifeVision](knowledge/newlifevision.md)
 
 ## Nutzung
 
@@ -90,4 +93,4 @@ Die Inhalte dürfen unter anderem als Grundlage für Beratung, Weiterbildung, in
 
 ## Markenarchitektur
 
-mniConsult ist die Marke der mniConsult GmbH. TIVIVA und TIVIVA InnoCircle stehen für technologie- und innovationsbezogene Angebote. NewLifeVision steht für Persönlichkeitsentwicklung. Die mniConsult Academy bündelt Lern- und Weiterbildungsangebote. Der gemeinsame Leitsatz lautet: Transform. Innovate. Live.
+mniConsult ist die Marke der mniConsult GmbH. TIVIVA und TIVIVA InnoCircle stehen für technologie- und innovationsbezogene Angebote. NewLifeVision verbindet persönliche Entwicklung, Fokus, Regeneration und bewusste Zukunftsgestaltung. Gemeinsam unterstützen diese Bereiche die Verbindung von beruflicher Wirkung und persönlicher Lebensqualität. Die mniConsult Academy bündelt Lern- und Weiterbildungsangebote. Der gemeinsame Leitsatz lautet: Transform. Innovate. Live.

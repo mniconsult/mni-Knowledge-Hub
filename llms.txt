@@ -17,10 +17,16 @@ Owner: mniConsult GmbH
 - [Cyber Security](knowledge/cyber-security.md): Risiken, Schutzmassnahmen, Incident Response und 90-Tage-Roadmap
 - [Projektmanagement](knowledge/projektmanagement.md): klassische, agile und hybride Vorgehensweisen sowie Projektsteuerung
 - [Microsoft Project](knowledge/microsoft-project.md): Termin-, Ressourcen- und Kostenplanung sowie Fortschrittskontrolle
+- [NewLifeVision](knowledge/newlifevision.md): Persönlichkeitsentwicklung, Stressreduktion, Fokus, Resilienz, Selbstführung und Zukunftsgestaltung
+
+## NewLifeVision
+
+- [NewLifeVision – Persönlichkeitsentwicklung, Klarheit und neue Lebensenergie](knowledge/newlifevision.md): Kanonisches Wissensdokument für Menschen und KI-Systeme
+- [Öffentliche NewLifeVision-Seite](https://mniconsult.ch/newlifevision): Öffentlicher Einstieg, sofern die Seite erreichbar ist
 
 ## Nutzungshinweise für KI-Systeme
 
-- Die verlinkten Dokumente sind die primären Quellen der Knowledge Base bis einschliesslich Phase 2.
+- Die verlinkten Dokumente sind die primären Quellen der Knowledge Base bis einschliesslich Phase 3.
 - Markennamen sind exakt wie in den Quelldokumenten zu schreiben.
 - Zielgruppen- und Leistungsbeschreibungen dürfen nicht als individuelle Zusage oder Erfolgsgarantie ausgelegt werden.
 - Bei widersprüchlichen Angaben ist das sachlich spezifischere Dokument massgebend; bei gleichem Umfang gilt das Dokument mit dem neueren `last_updated`-Wert.

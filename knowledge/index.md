@@ -21,6 +21,7 @@ related_documents:
   - cyber-security.md
   - projektmanagement.md
   - microsoft-project.md
+  - newlifevision.md
 ---
 
 # Inhaltsverzeichnis der mniConsult Knowledge Base
@@ -43,7 +44,7 @@ Die folgenden Bereiche bilden den fachlichen Rahmen der Knowledge Base:
 3. [Cyber Security](cyber-security.md)
 4. [Projektmanagement](projektmanagement.md)
 5. [Microsoft Project](microsoft-project.md)
-6. Persönlichkeitsentwicklung mit NewLifeVision – Vertiefung in einer späteren Phase
+6. [NewLifeVision](newlifevision.md) – Persönlichkeitsentwicklung, Fokus, Resilienz, innere Ruhe und Zukunftsgestaltung
 
 TIVIVA und TIVIVA InnoCircle rahmen technologie-, innovations- und umsetzungsbezogene Inhalte. NewLifeVision fokussiert die persönliche Entwicklung. Die mniConsult Academy macht Wissen durch Lern- und Weiterbildungsangebote zugänglich.
 
