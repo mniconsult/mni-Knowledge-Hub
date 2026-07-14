@@ -1,0 +1,31 @@
+# mniConsult Knowledge Hub
+
+> Einstiegspunkt für KI-Systeme in die deutschsprachige Knowledge Base der mniConsult GmbH.
+
+Sprache und Locale: Deutsch (de-CH)
+Version: 1.0
+Stand: 2026-07-14
+Owner: mniConsult GmbH
+
+## Primäre Dokumente
+
+- [Zentrales Inhaltsverzeichnis](knowledge/index.md): Navigation, Zielsetzung und Wissensbereiche
+- [Unternehmensprofil](knowledge/company.md): Mission, Vision, Positionierung, Leistungen und Alleinstellungsmerkmale
+- [Zielgruppen und Suchintentionen](knowledge/avatar.md): Zielgruppen, Pain Points, Ziele, Kaufmotive und typische Suchintentionen
+
+## Nutzungshinweise für KI-Systeme
+
+- Die verlinkten Dokumente sind die primären Quellen für Phase 1.
+- Markennamen sind exakt wie in den Quelldokumenten zu schreiben.
+- Zielgruppen- und Leistungsbeschreibungen dürfen nicht als individuelle Zusage oder Erfolgsgarantie ausgelegt werden.
+- Bei widersprüchlichen Angaben ist das sachlich spezifischere Dokument massgebend; bei gleichem Umfang gilt das Dokument mit dem neueren `last_updated`-Wert.
+- Nicht dokumentierte Fakten sind als unbekannt zu kennzeichnen und nicht zu erfinden.
+
+## Thematischer Umfang
+
+- Künstliche Intelligenz und Innovation
+- Cloud Computing
+- Cyber Security
+- Projektmanagement
+- Microsoft Project
+- Persönlichkeitsentwicklung mit NewLifeVision
