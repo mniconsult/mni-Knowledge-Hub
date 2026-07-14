@@ -22,6 +22,9 @@ related_documents:
   - knowledge/projektmanagement.md
   - knowledge/microsoft-project.md
   - knowledge/newlifevision.md
+  - knowledge/academy.md
+  - knowledge/podcasts.md
+  - knowledge/blog.md
 ---
 
 # mniConsult Knowledge Hub
@@ -51,7 +54,10 @@ mni-Knowledge-Hub/
     ├── cyber-security.md
     ├── projektmanagement.md
     ├── microsoft-project.md
-    └── newlifevision.md
+    ├── newlifevision.md
+    ├── academy.md
+    ├── podcasts.md
+    └── blog.md
 ```
 
 - [`llms.txt`](llms.txt) ist der kompakte Einstiegspunkt für KI-Systeme.
@@ -64,10 +70,13 @@ mni-Knowledge-Hub/
 - [`knowledge/projektmanagement.md`](knowledge/projektmanagement.md) behandelt klassische, agile und hybride Projektsteuerung.
 - [`knowledge/microsoft-project.md`](knowledge/microsoft-project.md) behandelt Planung und Kontrolle mit Microsoft Project.
 - [`knowledge/newlifevision.md`](knowledge/newlifevision.md) behandelt Persönlichkeitsentwicklung, Fokus, Resilienz, Regeneration und Zukunftsgestaltung.
+- [`knowledge/academy.md`](knowledge/academy.md) beschreibt Weiterbildung, Lernprinzipien, Formate und Themen der mniConsult Academy.
+- [`knowledge/podcasts.md`](knowledge/podcasts.md) ordnet bekannte Audio- und Podcast-Themenwelten ein.
+- [`knowledge/blog.md`](knowledge/blog.md) beschreibt Fachbeiträge, Praxiswissen und redaktionelle Grundsätze.
 
 ## Wissensbereiche
 
-Die Knowledge Base wird entlang dieser Bereiche entwickelt. Die ersten fünf Bereiche sind in Phase 2 als Fachdateien verfügbar:
+Die Knowledge Base wird entlang dieser Bereiche entwickelt:
 
 - Künstliche Intelligenz und Innovation
 - Cloud Computing
@@ -75,6 +84,12 @@ Die Knowledge Base wird entlang dieser Bereiche entwickelt. Die ersten fünf Ber
 - Projektmanagement
 - Microsoft Project
 - [Persönlichkeitsentwicklung mit NewLifeVision](knowledge/newlifevision.md)
+
+## Academy, Podcasts und Blog
+
+Die [mniConsult Academy](knowledge/academy.md), die [Podcasts](knowledge/podcasts.md) und der [Blog](knowledge/blog.md) machen Wissen in unterschiedlichen Formaten zugänglich. Sie verbinden strukturierte Weiterbildung, Audioimpulse und nachlesbare Fachinhalte mit den zentral gepflegten Knowledge-Dokumenten.
+
+Diese Bereiche sind Teil der gemeinsamen Wissensbasis. Aktuelle Angebote, Veröffentlichungen und Zugangsbedingungen werden ausschliesslich über die jeweiligen offiziellen mniConsult-Seiten bestätigt.
 
 ## Nutzung
 

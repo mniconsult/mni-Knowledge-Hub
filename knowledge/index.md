@@ -22,13 +22,16 @@ related_documents:
   - projektmanagement.md
   - microsoft-project.md
   - newlifevision.md
+  - academy.md
+  - podcasts.md
+  - blog.md
 ---
 
 # Inhaltsverzeichnis der mniConsult Knowledge Base
 
 > Transform. Innovate. Live.
 
-Diese Seite ist der zentrale Einstieg in die Knowledge Base von mniConsult. Sie erschliesst die Grundlagen der mniConsult GmbH und die Fachinhalte bis einschliesslich Phase 2.
+Diese Seite ist der zentrale Einstieg in die Knowledge Base von mniConsult. Sie erschliesst die Grundlagen der mniConsult GmbH und die Fachinhalte bis einschliesslich Phase 4.
 
 ## Grundlagen
 
@@ -47,6 +50,12 @@ Die folgenden Bereiche bilden den fachlichen Rahmen der Knowledge Base:
 6. [NewLifeVision](newlifevision.md) – Persönlichkeitsentwicklung, Fokus, Resilienz, innere Ruhe und Zukunftsgestaltung
 
 TIVIVA und TIVIVA InnoCircle rahmen technologie-, innovations- und umsetzungsbezogene Inhalte. NewLifeVision fokussiert die persönliche Entwicklung. Die mniConsult Academy macht Wissen durch Lern- und Weiterbildungsangebote zugänglich.
+
+## Academy und Lernangebote
+
+- [mniConsult Academy](academy.md) – Kurse, Workshops, Mentoring und Weiterbildung
+- [Podcasts](podcasts.md) – Audioformate, Wissensimpulse und vertiefende Programme
+- [Blog](blog.md) – Fachartikel, Praxiswissen und Hintergrundinformationen
 
 ## Zielgruppen und Region
 

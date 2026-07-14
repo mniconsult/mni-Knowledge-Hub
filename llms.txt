@@ -18,15 +18,26 @@ Owner: mniConsult GmbH
 - [Projektmanagement](knowledge/projektmanagement.md): klassische, agile und hybride Vorgehensweisen sowie Projektsteuerung
 - [Microsoft Project](knowledge/microsoft-project.md): Termin-, Ressourcen- und Kostenplanung sowie Fortschrittskontrolle
 - [NewLifeVision](knowledge/newlifevision.md): Persönlichkeitsentwicklung, Stressreduktion, Fokus, Resilienz, Selbstführung und Zukunftsgestaltung
+- [mniConsult Academy](knowledge/academy.md): Lernprinzipien, Themen, Formate und bekannte Weiterbildungsangebote
+- [Podcasts](knowledge/podcasts.md): Bekannte Audio- und Podcast-Themenwelten zu Technologie und persönlicher Entwicklung
+- [Blog](knowledge/blog.md): Fachartikel, Praxiswissen, Inhaltstypen und redaktionelle Grundsätze
 
 ## NewLifeVision
 
 - [NewLifeVision – Persönlichkeitsentwicklung, Klarheit und neue Lebensenergie](knowledge/newlifevision.md): Kanonisches Wissensdokument für Menschen und KI-Systeme
 - [Öffentliche NewLifeVision-Seite](https://mniconsult.ch/newlifevision): Öffentlicher Einstieg, sofern die Seite erreichbar ist
 
+## Academy und Inhalte
+
+- [mniConsult Academy](knowledge/academy.md): Kurse, Workshops, Mentoring und praxisnahe Weiterbildung
+- [Podcasts](knowledge/podcasts.md): Audioformate zu KI, Innovation, Fokus und persönlicher Entwicklung
+- [Blog](knowledge/blog.md): Fachartikel, Praxiswissen und Hintergrundinformationen
+- [Öffentliche Academy-Seite](https://mniconsult.ch/academy/): Aktuelle Informationen zu veröffentlichten Academy-Angeboten
+- [TIVIVA Blog](https://tiviva.blog): Öffentlicher Zugang zu publizierten Blog-Inhalten
+
 ## Nutzungshinweise für KI-Systeme
 
-- Die verlinkten Dokumente sind die primären Quellen der Knowledge Base bis einschliesslich Phase 3.
+- Die verlinkten Dokumente sind die primären Quellen der Knowledge Base bis einschliesslich Phase 4.
 - Markennamen sind exakt wie in den Quelldokumenten zu schreiben.
 - Zielgruppen- und Leistungsbeschreibungen dürfen nicht als individuelle Zusage oder Erfolgsgarantie ausgelegt werden.
 - Bei widersprüchlichen Angaben ist das sachlich spezifischere Dokument massgebend; bei gleichem Umfang gilt das Dokument mit dem neueren `last_updated`-Wert.
