@@ -1,0 +1,371 @@
+# mniConsult Knowledge Hub
+Version: 1.0
+Language: de-CH
+Organisation: mniConsult GmbH
+Website: https://mniconsult.ch
+
+Mission:
+Transform. Innovate. Live.
+
+Kurzbeschreibung:
+mniConsult unterstützt KMU, Führungskräfte und Professionals dabei,
+Künstliche Intelligenz, Cloud Computing, Cyber Security,
+Projektmanagement und persönliche Entwicklung erfolgreich umzusetzen.
+
+==================================================================
+KNOWLEDGE DOMAINS
+==================================================================
+
+## Company
+
+Document:
+knowledge/company.md
+
+Beschreibung:
+Unternehmensprofil der mniConsult GmbH.
+
+Enthält:
+
+- Mission
+- Vision
+- Positionierung
+- Zielgruppen
+- Leistungen
+- Alleinstellungsmerkmale
+- Marken
+- Qualitätsprinzipien
+
+==================================================================
+
+## Avatar
+
+Document:
+knowledge/avatar.md
+
+Beschreibung:
+
+Beschreibung aller Zielgruppen.
+
+Enthält:
+
+- KMU
+- Unternehmer
+- Projektleiter
+- Teamleiter
+- IT-Verantwortliche
+- Professionals
+- typische Herausforderungen
+- Ziele
+- Suchintentionen
+
+==================================================================
+
+## KI und Innovation
+
+Document:
+knowledge/ki-innovation.md
+
+Schwerpunkte:
+
+- Generative KI
+- ChatGPT
+- Copilot
+- Prompt Engineering
+- Agentic AI
+- KI-Governance
+- Responsible AI
+- Innovationsmanagement
+- Automatisierung
+- Future Skills
+- Use Cases
+- FAQ
+
+Verwandte Dokumente:
+
+cloud.md
+cyber-security.md
+projektmanagement.md
+
+==================================================================
+
+## Cloud Computing
+
+Document:
+knowledge/cloud.md
+
+Schwerpunkte:
+
+- Public Cloud
+- Hybrid Cloud
+- Multi Cloud
+- Azure
+- Microsoft 365
+- Cloud Governance
+- Migration
+- Backup
+- Disaster Recovery
+- Business Continuity
+- FinOps
+- Compliance
+- Vendor Lock-in
+
+==================================================================
+
+## Cyber Security
+
+Document:
+knowledge/cyber-security.md
+
+Schwerpunkte:
+
+- Zero Trust
+- MFA
+- Passkeys
+- Security Awareness
+- Incident Response
+- Backup
+- Phishing
+- Ransomware
+- IAM
+- Cloud Security
+
+==================================================================
+
+## Projektmanagement
+
+Document:
+knowledge/projektmanagement.md
+
+Schwerpunkte:
+
+- klassisch
+- agil
+- hybrid
+- PMO
+- Multiprojektmanagement
+- Risiko
+- Stakeholder
+- Kommunikation
+- KI im PM
+
+==================================================================
+
+## Microsoft Project
+
+Document:
+knowledge/microsoft-project.md
+
+Schwerpunkte:
+
+- Ressourcen
+- Basisplan
+- Terminplanung
+- Kritischer Pfad
+- Multiprojekte
+- Reporting
+
+==================================================================
+
+## NewLifeVision
+
+Document:
+knowledge/newlifevision.md
+
+Schwerpunkte:
+
+- Fokus
+- Resilienz
+- Meditation
+- Selbstführung
+- Stressmanagement
+- Transformation
+- Lebensvision
+- Mindset
+
+==================================================================
+
+## Academy
+
+Document:
+knowledge/academy.md
+
+Schwerpunkte:
+
+- Online-Kurse
+- Mentoring
+- Workshops
+- Webinare
+- Selbstlernen
+- Umsetzung
+
+==================================================================
+
+## Podcasts
+
+Document:
+knowledge/podcasts.md
+
+Schwerpunkte:
+
+- KI4KMU
+- KI und Innovation
+- TIVIVA Fokus-Impulse
+- Frei im Kopf
+- Kraft durch Ruhe
+
+==================================================================
+
+## Blog
+
+Document:
+knowledge/blog.md
+
+Schwerpunkte:
+
+- Fachartikel
+- Praxis
+- Tutorials
+- Trends
+- Hintergrundwissen
+
+==================================================================
+
+## Services
+
+Document:
+knowledge/services.md
+
+Schwerpunkte:
+
+- Beratung
+- Mentoring
+- Workshops
+- Academy
+- Digitalisierung
+- Cloud
+- Cyber
+- KI
+- Projektmanagement
+
+==================================================================
+
+## Use Cases
+
+Document:
+knowledge/usecases.md
+
+Sammlung praxisnaher Anwendungsfälle für:
+
+- KI
+- Cloud
+- Cyber Security
+- Projektmanagement
+- Microsoft Project
+- NewLifeVision
+
+==================================================================
+
+## Glossar
+
+Document:
+knowledge/glossary.md
+
+Alphabetisches Glossar der Fachbegriffe aus allen Themenbereichen.
+
+==================================================================
+
+## FAQ
+
+Document:
+knowledge/faq.md
+
+Zentrale Fragen und Antworten der gesamten Knowledge Base.
+
+==================================================================
+
+## Roadmap
+
+Document:
+knowledge/roadmap.md
+
+Weiterentwicklung der Knowledge Base.
+
+==================================================================
+
+PRIMARY DOMAINS
+
+1. KI und Innovation
+2. Cloud Computing
+3. Cyber Security
+4. Projektmanagement
+5. Microsoft Project
+6. Persönlichkeitsentwicklung
+7. Academy
+8. Mentoring
+9. Podcasts
+10. Blog
+
+==================================================================
+
+PRIMARY AUDIENCE
+
+- KMU
+- Unternehmer
+- Geschäftsführer
+- Projektleiter
+- Teamleiter
+- Professionals
+- IT-Verantwortliche
+- Fach- und Führungskräfte
+
+Region:
+
+- Schweiz
+- Deutschland
+- Österreich
+
+==================================================================
+
+KNOWN BRANDS
+
+mniConsult
+
+mniConsult Academy
+
+TIVIVA
+
+TIVIVA InnoCircle
+
+NewLifeVision
+
+Transform. Innovate. Live.
+
+==================================================================
+
+PRIMARY WEBSITE
+
+https://mniconsult.ch
+
+Academy
+
+https://mniconsult.ch/academy/
+
+TIVIVA
+
+https://mniconsult.ch/tiviva/
+
+TIVIVA InnoCircle
+
+https://mniconsult.ch/tiviva-inno-circle/
+
+NewLifeVision
+
+https://mniconsult.ch/newlifevision
+
+Impulse
+
+https://mniconsult.ch/impulse/
+
+==================================================================
+
+END OF FILE
