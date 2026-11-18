@@ -1,0 +1,235 @@
+{
+  "schemaVersion": "1.0",
+  "site": {
+    "name": "mniConsult",
+    "organisation": "mniConsult GmbH",
+    "baseUrl": "https://mniconsult.ch",
+    "language": "de-CH",
+    "tagline": "Transform. Innovate. Live.",
+    "description": "mniConsult verbindet KI, Innovation, Cloud, Cyber Security und Projektmanagement mit persönlicher Entwicklung durch NewLifeVision."
+  },
+  "repository": {
+    "owner": "mniconsult",
+    "name": "mni-Knowledge-Hub",
+    "branch": "main"
+  },
+  "generation": {
+    "llmsTxt": true,
+    "llmsFullTxt": true,
+    "deterministic": true,
+    "includeUnapproved": false,
+    "stripFrontmatter": true,
+    "preserveMarkdown": true,
+    "maximumOutputBytes": 10000000,
+    "maximumSourceBytes": 2000000
+  },
+  "deployment": {
+    "enabled": false,
+    "method": "sftp",
+    "remoteDirectory": null,
+    "privateDirectory": null,
+    "temporarySuffix": ".staging",
+    "backupEnabled": true,
+    "verifyPublicUrls": true,
+    "publicLlmsUrl": "https://mniconsult.ch/llms.txt",
+    "publicLlmsFullUrl": "https://mniconsult.ch/llms-full.txt",
+    "allowFirstInstallation": false,
+    "providerRenameVerified": false
+  },
+  "monitoring": {
+    "notifyOnError": true,
+    "notifyOnSuccess": false,
+    "preventConcurrentDeployment": true,
+    "singleWriterVerified": false,
+    "minimumSizeRatio": 0.5
+  },
+  "documents": [
+    {
+      "path": "knowledge/company.md",
+      "title": "Unternehmensprofil der mniConsult GmbH",
+      "section": "Unternehmen",
+      "order": 10,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Mission, Vision, Positionierung, Leistungen und Alleinstellungsmerkmale der mniConsult GmbH."
+    },
+    {
+      "path": "knowledge/index.md",
+      "title": "Inhaltsverzeichnis der mniConsult Knowledge Base",
+      "section": "Unternehmen",
+      "order": 11,
+      "approved": false,
+      "includeInIndex": false,
+      "includeFullText": false,
+      "publicUrl": null,
+      "description": "Zentraler Einstieg in die Unternehmens-, Zielgruppen- und Themeninhalte der mniConsult Knowledge Base."
+    },
+    {
+      "path": "knowledge/avatar.md",
+      "title": "Zielgruppen und Suchintentionen von mniConsult",
+      "section": "Unternehmen",
+      "order": 12,
+      "approved": false,
+      "includeInIndex": false,
+      "includeFullText": false,
+      "publicUrl": null,
+      "description": "Beschreibung der Zielgruppen, Pain Points, Ziele, Kaufmotive und typischen Suchintentionen von mniConsult."
+    },
+    {
+      "path": "knowledge/roadmap.md",
+      "title": "Roadmap der mniConsult Knowledge Base",
+      "section": "Unternehmen",
+      "order": 13,
+      "approved": false,
+      "includeInIndex": false,
+      "includeFullText": false,
+      "publicUrl": null,
+      "description": "Stand, geplante Ausbaustufen, Qualitätsziele und Governance der mniConsult Knowledge Base."
+    },
+    {
+      "path": "knowledge/ki-innovation.md",
+      "title": "Künstliche Intelligenz und Innovation für KMU",
+      "section": "KI und Innovation",
+      "order": 20,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Praxisleitfaden zu KI-Strategie, generativer KI, Governance, Use Cases und Innovation für KMU im DACH-Raum."
+    },
+    {
+      "path": "knowledge/projektmanagement.md",
+      "title": "Projektmanagement für KMU und Professionals",
+      "section": "Projektmanagement",
+      "order": 30,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Praxisleitfaden zu klassischen, agilen und hybriden Vorgehensweisen, Steuerung, PMO und KI im Projektmanagement."
+    },
+    {
+      "path": "knowledge/microsoft-project.md",
+      "title": "Microsoft Project in der Projektpraxis",
+      "section": "Microsoft Project",
+      "order": 40,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Praxisleitfaden zu Termin-, Ressourcen- und Kostenplanung, Fortschrittskontrolle und Einführung von Microsoft Project."
+    },
+    {
+      "path": "knowledge/cloud.md",
+      "title": "Cloud Computing für KMU",
+      "section": "Cloud Computing",
+      "order": 50,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Praxisleitfaden zu Cloud-Strategie, Betriebsmodellen, Migration, Governance, FinOps und Resilienz für KMU."
+    },
+    {
+      "path": "knowledge/cyber-security.md",
+      "title": "Cyber Security und Informationssicherheit für KMU",
+      "section": "Cyber Security",
+      "order": 60,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Praxisleitfaden zu Cyber-Risiken, Schutzmassnahmen, Governance, Incident Response und einer 90-Tage-Roadmap für KMU."
+    },
+    {
+      "path": "knowledge/newlifevision.md",
+      "title": "NewLifeVision – Persönlichkeitsentwicklung, Klarheit und neue Lebensenergie",
+      "section": "NewLifeVision",
+      "order": 70,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Wissensdokument über NewLifeVision, persönliche Entwicklung, Stressreduktion, Fokus, Resilienz und bewusste Zukunftsgestaltung."
+    },
+    {
+      "path": "knowledge/academy.md",
+      "title": "mniConsult Academy – Praxisnahe Weiterbildung",
+      "section": "Academy und Mentoring",
+      "order": 80,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Überblick über Positionierung, Zielgruppen, Lernprinzipien, Themen und Formate der mniConsult Academy."
+    },
+    {
+      "path": "knowledge/services.md",
+      "title": "Services und Angebotsformen von mniConsult",
+      "section": "Services",
+      "order": 90,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Sachlicher Überblick über Beratung, Mentoring, Coaching, Weiterbildung und individuelle Unterstützung durch mniConsult."
+    },
+    {
+      "path": "knowledge/podcasts.md",
+      "title": "mniConsult Podcasts – Wissen und Impulse zum Hören",
+      "section": "Podcasts und Blog",
+      "order": 100,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Überblick über bekannte Podcast- und Themenwelten von mniConsult zu Technologie, Fokus und persönlicher Entwicklung."
+    },
+    {
+      "path": "knowledge/blog.md",
+      "title": "mniConsult Blog – Fachwissen und Praxisimpulse",
+      "section": "Podcasts und Blog",
+      "order": 101,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Überblick über Zweck, Themen, Inhaltstypen und redaktionelle Grundsätze des mniConsult-Blogs."
+    },
+    {
+      "path": "knowledge/faq.md",
+      "title": "Master-FAQ der mniConsult Knowledge Base",
+      "section": "FAQ und Use Cases",
+      "order": 110,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Zentrale Fragen und Antworten zu mniConsult, Fachthemen, NewLifeVision, Academy, Inhalten und Zusammenarbeit."
+    },
+    {
+      "path": "knowledge/usecases.md",
+      "title": "Praxisnahe Use Cases für mniConsult-Zielgruppen",
+      "section": "FAQ und Use Cases",
+      "order": 111,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Strukturierte Sammlung konkreter Anwendungsfälle zu KI, Cloud, Cyber Security, Projektmanagement, Microsoft Project und NewLifeVision."
+    },
+    {
+      "path": "knowledge/glossary.md",
+      "title": "Glossar der mniConsult Knowledge Base",
+      "section": "Glossar",
+      "order": 120,
+      "approved": false,
+      "includeInIndex": true,
+      "includeFullText": true,
+      "publicUrl": null,
+      "description": "Alphabetisches Fachglossar zu KI, Cloud, Cyber Security, Projektmanagement, Microsoft Project und persönlicher Entwicklung."
+    }
+  ]
+}

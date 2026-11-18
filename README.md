@@ -2,7 +2,7 @@
 title: mniConsult Knowledge Hub
 description: Dokumentation der zentralen, strukturierten Wissensbasis der mniConsult GmbH für Menschen und KI-Systeme.
 version: "1.0"
-last_updated: 2026-07-14
+last_updated: 2026-11-18
 language: de-CH
 owner: mniConsult GmbH
 category: Repository-Dokumentation
@@ -51,11 +51,16 @@ mni-Knowledge-Hub/
 ├── README.md
 ├── AGENTS.md
 ├── llms.txt
+├── llms-full.txt
 ├── robots.txt
 ├── sitemap.xml
 ├── sitemap.rss
 ├── humans.txt
 ├── security.txt
+├── config/
+│   └── llms-config.json
+├── automation/
+│   └── n8n/
 └── knowledge/
     ├── index.md
     ├── company.md
@@ -102,6 +107,10 @@ mni-Knowledge-Hub/
 - [`sitemap.rss`](sitemap.rss) stellt bekannte Inhaltsbereiche für Feed-Reader bereit.
 - [`humans.txt`](humans.txt) dokumentiert Projekt, Organisation, Bereiche und öffentliches Repository.
 - [`security.txt`](security.txt) enthält die maschinenlesbaren Security-Policy-Angaben für eine spätere Bereitstellung unter `/.well-known/security.txt`.
+
+## Knowledge-Automation
+
+Die Automatisierung für n8n 2.47.7 erzeugt die beiden LLM-Dateien aus redaktionell freigegebenen Markdown-Dokumenten eines GitHub-Commits. Der [Dokumentkatalog](config/llms-config.json) startet ohne Freigaben. Zeitplan und SFTP-Deployment werden nach der Abnahme auf der vorhandenen n8n-Instanz aktiviert. [Workflow-Dokumentation](automation/n8n/README.md) · [Installation](automation/n8n/INSTALLATION.md)
 
 ## Wissensbereiche
 
