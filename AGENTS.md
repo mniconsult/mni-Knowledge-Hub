@@ -379,6 +379,12 @@ README.md beschreibt:
 
 Bei strukturellen Änderungen ist zu prüfen, ob README.md aktualisiert werden muss.
 
+## Knowledge-Automation
+
+- Die Freigaben für die automatisierte Veröffentlichung werden ausschliesslich in `config/llms-config.json` gepflegt. Neue Dokumente erhalten standardmässig `approved: false`. Öffentliche URLs brauchen eine ausdrückliche redaktionelle Prüfung und müssen zum jeweiligen Dokument gehören.
+- Änderungen an der Workflow-Logik in `automation/n8n/modules/` und `automation/n8n/build-workflows.js` pflegen. Die importierbaren JSON-Dateien und den Node-Katalog mit `node automation/n8n/build-workflows.js` neu erzeugen und mit `--check` sowie `node --test automation/n8n/tests/*.test.js` prüfen.
+- Standard-Nodes und JavaScript für n8n 2.47.7 verwenden. Credentials erst auf der n8n-Instanz zuordnen. Für Entwicklung und Repository-Prüfung Deployment deaktiviert lassen und ausschliesslich isolierte Testpfade verwenden.
+
 ## knowledge/index.md
 
 knowledge/index.md ist das zentrale Inhaltsverzeichnis der Knowledge Base.
