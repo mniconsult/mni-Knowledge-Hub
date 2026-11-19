@@ -33,7 +33,7 @@
     "verifyPublicUrls": true,
     "publicLlmsUrl": "https://mniconsult.ch/llms.txt",
     "publicLlmsFullUrl": "https://mniconsult.ch/llms-full.txt",
-    "allowFirstInstallation": false,
+    "allowFirstInstallation": true,
     "providerRenameVerified": true
   },
   "monitoring": {
