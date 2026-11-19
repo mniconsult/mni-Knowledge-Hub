@@ -25,7 +25,7 @@
   },
   "deployment": {
     "enabled": true,
-    "method": "ftp",
+    "method": "sftp",
     "remoteDirectory": null,
     "privateDirectory": null,
     "temporarySuffix": ".staging",
