@@ -26,21 +26,21 @@
   "deployment": {
     "enabled": true,
     "method": "sftp",
-    "remoteDirectory": null,
-    "privateDirectory": null,
+    "remoteDirectory": "mniconsult.ch/",
+    "privateDirectory": "automate/",
     "temporarySuffix": ".staging",
     "backupEnabled": true,
     "verifyPublicUrls": true,
     "publicLlmsUrl": "https://mniconsult.ch/llms.txt",
     "publicLlmsFullUrl": "https://mniconsult.ch/llms-full.txt",
     "allowFirstInstallation": false,
-    "providerRenameVerified": false
+    "providerRenameVerified": true
   },
   "monitoring": {
     "notifyOnError": true,
     "notifyOnSuccess": false,
     "preventConcurrentDeployment": true,
-    "singleWriterVerified": false,
+    "singleWriterVerified": true,
     "minimumSizeRatio": 0.5
   },
   "documents": [
