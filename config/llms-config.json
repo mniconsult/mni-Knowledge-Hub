@@ -26,8 +26,8 @@
   "deployment": {
     "enabled": true,
     "method": "sftp",
-    "remoteDirectory": "mniconsult.ch/",
-    "privateDirectory": "automate/",
+    "remoteDirectory": "/mniconsult.ch",
+    "privateDirectory": "/automate",
     "temporarySuffix": ".staging",
     "backupEnabled": true,
     "verifyPublicUrls": true,
