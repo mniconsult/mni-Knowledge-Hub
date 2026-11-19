@@ -24,8 +24,8 @@
     "maximumSourceBytes": 2000000
   },
   "deployment": {
-    "enabled": false,
-    "method": "sftp",
+    "enabled": true,
+    "method": "ftp",
     "remoteDirectory": null,
     "privateDirectory": null,
     "temporarySuffix": ".staging",
