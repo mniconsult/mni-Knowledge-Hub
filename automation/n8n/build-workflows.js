@@ -228,7 +228,7 @@ function buildWorkflow() {
   const schedule = w.node('Täglicher Zeitplan', 'scheduleTrigger', 1.2, {
     rule: { interval: [{ field: 'days', daysInterval: 1, triggerAtHour: 4, triggerAtMinute: 15 }] },
   }, { input: 'Trigger nach Veröffentlichung', output: 'Geplanter Lauf', behavior: 'Täglich 04:15 Uhr Europe/Zurich. Deaktiviert ausgeliefert.' },
-  { disabled: true })
+  { disabled: false })
   for (const [trigger, scheduled] of [[manual, false], [schedule, true]]) {
     w.link(trigger, w.code(scheduled ? 'Zeitplan kennzeichnen' : 'Testlauf kennzeichnen', `
 return [{json: {scheduled: ${scheduled} && $execution.mode === 'production', limit: 2097152,

@@ -52,7 +52,7 @@
       "approved": true,
       "includeInIndex": true,
       "includeFullText": true,
-      "publicUrl": null,
+      "publicUrl": "https://mniconsult.ch/",
       "description": "Mission, Vision, Positionierung, Leistungen und Alleinstellungsmerkmale der mniConsult GmbH."
     },
     {
@@ -96,7 +96,7 @@
       "approved": true,
       "includeInIndex": true,
       "includeFullText": true,
-      "publicUrl": null,
+      "publicUrl": "https://mniconsult.ch/ki-automatisation-effizienz/",
       "description": "Praxisleitfaden zu KI-Strategie, generativer KI, Governance, Use Cases und Innovation für KMU im DACH-Raum."
     },
     {
@@ -107,7 +107,7 @@
       "approved": true,
       "includeInIndex": true,
       "includeFullText": true,
-      "publicUrl": null,
+      "publicUrl": "https://mniconsult.ch/ki-im-projektmanagement/",
       "description": "Praxisleitfaden zu klassischen, agilen und hybriden Vorgehensweisen, Steuerung, PMO und KI im Projektmanagement."
     },
     {
@@ -140,7 +140,7 @@
       "approved": true,
       "includeInIndex": true,
       "includeFullText": true,
-      "publicUrl": null,
+      "publicUrl": "https://mniconsult.ch/cyber-security-kmu/",
       "description": "Praxisleitfaden zu Cyber-Risiken, Schutzmassnahmen, Governance, Incident Response und einer 90-Tage-Roadmap für KMU."
     },
     {
